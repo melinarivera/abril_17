@@ -1,4 +1,10 @@
 {
+  "name": "abril_17",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
